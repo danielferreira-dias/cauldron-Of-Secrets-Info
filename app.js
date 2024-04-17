@@ -20,7 +20,7 @@ function createHeadingSection() {
     const headingSectionVersion = document.createElement("h3");
 
     // Set text content
-    headingSectionTitle.textContent = "3Queens Oriental Wild";
+    headingSectionTitle.textContent = "Cauldron of Secrets";
     headingSectionVersion.textContent = "Game Version: v1.0.0";
 
     // Append elements
@@ -44,7 +44,7 @@ function createHTMLFromJSON() {
         .then((data) => {
 
             // Title of the Game
-            document.title = "3Queens Oriental Wild";
+            document.title = "Cauldron of Secrets";
 
             // Create Sections
             const main = document.querySelector(".symbol-section");
@@ -409,8 +409,17 @@ function createRuleSection(mainSection, subSection, subContainer) {
                             switch (word.valueType) {
                                 case "puntataMinima":
                                 case "puntataMaxima":
-                                case "puntataMinimaGoldenBet":
-                                case "puntataMaximaGoldenBet":
+                                case "puntataMinimaX2Bet":
+                                case "puntataMaximaX2Bet":
+                                    typeOfListText.textContent = ` ${word.content[currentLanguage]} `;
+                                    typeOfListValue.textContent = ` ${word.value} ${currentCurrency}`;
+                                    containerRTP.appendChild(typeOfListText);
+                                    containerRTP.appendChild(typeOfListValue);
+                                    containerRTP.style.flexDirection = "row";
+                                    containerRTP.style.marginBottom = word.valueType.includes("Maxima") ? "10px" : "0px"; // Set margin based on valueType
+                                    break;
+                                case "puntataMinimaX10Bet":
+                                case "puntataMaximaX10Bet":
                                     typeOfListText.textContent = ` ${word.content[currentLanguage]} `;
                                     typeOfListValue.textContent = ` ${word.value} ${currentCurrency}`;
                                     containerRTP.appendChild(typeOfListText);
@@ -434,8 +443,6 @@ function createRuleSection(mainSection, subSection, subContainer) {
                                         rtpValue.textContent = ` ${word.value[currentLanguage][i]}`;
                                         containerRTP.appendChild(rtpValue);
                                         rtpValue.style.textAlign = "center";
-                                        rtpValue.style.fontSize = "3.0rem";
-                                        rtpValue.style.color = mainColor;
                                     }
                                     containerRTP.style.flexDirection = "column";
                                     containerRTP.style.flexWrap = "wrap";
