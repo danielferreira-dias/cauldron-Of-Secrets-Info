@@ -134,7 +134,6 @@ p.sub-container-content-flex {
 }
 
 .image-container-symbol {
-    flex: 0 0 30%;
     height: 100%;
     /* background-color: red; */
     aspect-ratio: 1;
@@ -447,7 +446,7 @@ p.sub-container-content-flex {
 
 @media only screen and (min-width: 1200px) {
     .symbolWidth {
-        width: 200px;
+        width: 150px;
     }
     .wizardWidth {
         width: 350px;
@@ -460,7 +459,7 @@ p.sub-container-content-flex {
 
 @media only screen and (min-width: 1600px) {
     .symbolWidth {
-        width: 250px;
+        width: 200px;
     }
     .screenWidth {
         width: 450px;

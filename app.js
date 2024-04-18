@@ -205,6 +205,7 @@ function createSymbolSection(section, subSection, subContainer) {
 
                     // Left Div contains Symbol Image
                     const leftDiv = document.createElement("div");
+                    leftDiv.classList.add("symbolWidth");
                     leftDiv.classList.add("image-container-symbol");
                     leftDiv.style.backgroundImage = `url("./images/Settings/Symbol/${i}.png")`;
                     const symbolImage = document.createElement("img")
