@@ -1457,10 +1457,10 @@
                                     {
                                         "type": "img_text",
                                         "imageType": "big",
-                                        "divMaxWith": "symbolWidth",
+                                        "divMaxWith": "screenWidth",
                                         "wrap": "wrap",
                                         "url": [
-                                            "images/Settings/Symbol/8.png"
+                                            "images/Settings/Assets/MAIN_GAME_MULTIPLIERS.png"
                                         ],
                                         "textAlignment": "center",
                                         "hasSpecialData": true,
@@ -1501,10 +1501,10 @@
                                     {
                                         "type": "img_text",
                                         "imageType": "big",
-                                        "divMaxWith": "symbolWidth",
+                                        "divMaxWith": "screenWidth",
                                         "wrap": "wrap",
                                         "url": [
-                                            "images/Settings/Symbol/9.png"
+                                            "images/Settings/Assets/FREE_SPINS_MULTIPLIERS.png"
                                         ],
                                         "textAlignment": "center",
                                         "hasSpecialData": true,
@@ -1545,10 +1545,10 @@
                                     {
                                         "type": "img_text",
                                         "imageType": "big",
-                                        "divMaxWith": "symbolWidth",
+                                        "divMaxWith": "screenWidth",
                                         "wrap": "wrap",
                                         "url": [
-                                            "images/Settings/Symbol/10.png"
+                                            "images/Settings/Assets/SUPER_FREE_SPINS_MULTIPLIERS.png"
                                         ],
                                         "textAlignment": "center",
                                         "hasSpecialData": true,
