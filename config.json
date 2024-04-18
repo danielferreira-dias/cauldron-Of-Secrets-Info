@@ -1774,11 +1774,7 @@
                                             ]
                                         },
                                         "direction": "column",
-                                        "customFormat": "",
-                                        "valueType": "maxWinValue",
-                                        "Type": "text",
-                                        "Text": "The Max win is ",
-                                        "value": "20,000x"
+                                        "customFormat": ""
                                     }
                                 ]
                             }
@@ -1987,47 +1983,43 @@
                                         "textAlignment": "center",
                                         "content": {
                                             "EN": [
-                                                "This game offers the possibility to purchase special features directly from the main game by pressing the CRISTAL SHOP button.",
-                                                "Players have the option to purcha FLASH SPINS feature with 4,5 or 6 SCATTER symbols. The number of SCATTER determines the number of SPECIAL REELS during the FLASH SPINS. The LUCKY SCATTERS feature can reward between 4 to 6 SCATTER symbols.",
-                                                "The GOLDEN BET can be activated for 7 times the BET amount. This increases your chance of triggering FLASH SPINS by boosting the presence of SCATTER symbols. When the GOLDEN BET is activated, other options from the CRISTAL SHOP become unavaible for purchase."
+                                                "Directly access game features in CRISTAL SHOP. Activation only available in base game.",
+                                                "If you buy FREE SPINS or SUPER FREE SPINS, you will always be rewarded 6 SPINS, however in MYSTERY FREE SPINS you might be rewarded an higher amount.",
+                                                "When you buy MYSTERY FREE SPINS, three SCATTERS will reward 6 SPINS, four will reward you 10 and 5 will reward you 16 SPINS."
                                             ],
                                             "IT": [
-                                                "Questo gioco offre la possibilità di acquistare funzionalità speciali direttamente dal gioco principale premendo il pulsante CRISTAL SHOP.",
-                                                "I giocatori hanno l'opzione di acquistare la funzione FLASH SPINS con 4, 5 o 6 simboli SCATTER. Il numero di SCATTER determina il numero di RULLI SPECIALI durante le FLASH SPINS. La funzione LUCKY SCATTERS può premiare tra 4 e 6 simboli SCATTER.",
-                                                "La GOLDEN BET può essere attivata per 7 volte l'importo della scommessa. Questo aumenta la tua possibilità di attivare le FLASH SPINS potenziando la presenza di simboli SCATTER. Quando la GOLDEN BET è attivata, altre opzioni dal CRISTAL SHOP diventano non disponibili per l'acquisto."
+                                                "Accedi direttamente alle funzionalità del gioco nel CRISTAL SHOP. L'attivazione è disponibile solo nel gioco base.",
+                                                "Se acquisti FREE SPINS o SUPER FREE SPINS, verrai sempre premiato con 6 SPINS, tuttavia nelle MYSTERY FREE SPINS potresti essere premiato con un importo più alto.",
+                                                "Quando acquisti MYSTERY FREE SPINS, tre SCATTERS ti premieranno con 6 SPINS, quattro ti premieranno con 10 e cinque ti premieranno con 16 SPINS."
                                             ],
                                             "RU": [
-                                                "Эта игра предлагает возможноѝть покупать ѝпециальные функции непоѝредѝтвенно из оѝновной игры, нажимаѝ кнопку CRISTAL SHOP.",
-                                                "Игроки могут приобреѝти функцию FLASH SPINS ѝ 4, 5 или 6 ѝимволами SCATTER. Количеѝтво SCATTER определѝет количеѝтво СПЕЦИНЛЬНЫХ БНРНБННОВ во времѝ FLASH SPINS. Функциѝ LUCKY SCATTERS может вознаграждать от 4 до 6 ѝимволов SCATTER.",
-                                                "ЗОЛОТНЯ СТНВКН может быть активирована в 7 раз больше ѝуммы СТНВКИ. Это увеличивает ваш шанѝ активации FLASH SPINS за ѝчет увеличениѝ количеѝтва ѝимволов SCATTER. Когда активирована ЗОЛОТНЯ СТНВКН, другие варианты из CRISTAL SHOP ѝтановѝтѝѝ недоѝтупными длѝ покупки."
+                                                "Прямой доступ к игровым функциям в МАГАЗИНЕ КРИСТАЛЛОВ. Активация доступна только в базовой игре.",
+                                                "Если вы покупаете FREE SPINS или SUPER FREE SPINS, вам всегда будет начислено 6 ВРАЩЕНИЙ, однако в MYSTERY FREE SPINS вы можете быть вознаграждены более высокой суммой.",
+                                                "При покупке MYSTERY FREE SPINS три SCATTERS наградят вас 6 ВРАЩЕНИЯМИ, четыре - 10, а пять - 16 ВРАЩЕНИЯМИ."
                                             ],
                                             "FR": [
-                                                "Ce jeu offre la possibilité d'acheter des fonctionnalités spéciales directement depuis le jeu principal en appuyant sur le bouton CRISTAL SHOP.",
-                                                "Les joueurs ont la possibilité d'acheter la fonction FLASH SPINS avec 4, 5 ou 6 symboles SCATTER. Le nombre de SCATTER détermine le nombre de ROULEAUX SPÉCIAUX pendant les FLASH SPINS. La fonction LUCKY SCATTERS peut récompenser entre 4 et 6 symboles SCATTER.",
-                                                "La MISE DORÉE peut être activée pour 7 fois le montant de la MISE. Cela augmente vos chances d'activer les FLASH SPINS en augmentant la présence de symboles SCATTER. Lorsque la MISE DORÉE est activée, d'autres options du CRISTAL SHOP deviennent indisponibles à l'achat."
+                                                "Accédez directement aux fonctionnalités du jeu dans le CRISTAL SHOP. L'activation n'est disponible que dans le jeu de base.",
+                                                "Si vous achetez des FREE SPINS ou des SUPER FREE SPINS, vous serez toujours récompensé de 6 TOURS, cependant dans les MYSTERY FREE SPINS, vous pourriez être récompensé d'un montant plus élevé.",
+                                                "Lorsque vous achetez des MYSTERY FREE SPINS, trois SCATTERS vous récompenseront de 6 TOURS, quatre vous récompenseront de 10 et cinq vous récompenseront de 16 TOURS."
                                             ],
                                             "ZH": [
-                                                "这款游戝杝供了通过按下CRYSTAL SHOP按钮直接从主游戝购买特殊功能的坯能性。",
-                                                "玩家坯以使用4〝5或6个SCATTER符坷购买FLASH SPINS功能。 SCATTER的数針决定了FLASH SPINS期间的SPECIAL REEL数針。 幸违SCATTERS功能坯以奖励4到6个SCATTER符坷。",
-                                                "黄金赌注坯以激活7倝于投注金额。 这会增加您触坑FLASH SPINS的机会，增加SCATTER符坷的出现。 当激活黄金赌注时，CRYSTAL SHOP中的其他选项将无法购买。"
+                                                "直接访问水晶商店中的游戏功能。仅在基础游戏中可用。",
+                                                "如果您购买 FREE SPINS 或 SUPER FREE SPINS，则将始终获得 6 次旋转奖励，但在 MYSTERY FREE SPINS 中，您可能会获得更高的金额。",
+                                                "当您购买 MYSTERY FREE SPINS 时，三个 SCATTERS 将奖励您 6 次旋转，四个将奖励您 10 次，而五个将奖励您 16 次旋转。"
                                             ],
                                             "US": [
-                                                "This game offers the possibility to purchase special features directly from the main game by pressing the CRISTAL SHOP button.",
-                                                "Players have the option to purcha FLASH SPINS feature with 4,5 or 6 SCATTER symbols. The number of SCATTER determines the number of SPECIAL REELS during the FLASH SPINS. The LUCKY SCATTERS feature can reward between 4 to 6 SCATTER symbols.",
-                                                "The GOLDEN BET can be activated for 7 times the BET amount. This increases your chance of triggering FLASH SPINS by boosting the presence of SCATTER symbols. When the GOLDEN BET is activated, other options from the CRISTAL SHOP become unavaible for purchase."
+                                                "Directly access game features in CRISTAL SHOP. Activation only available in base game.",
+                                                "If you buy FREE SPINS or SUPER FREE SPINS, you will always be rewarded 6 SPINS, however in MYSTERY FREE SPINS you might be rewarded an higher amount.",
+                                                "When you buy MYSTERY FREE SPINS, three SCATTERS will reward 6 SPINS, four will reward you 10 and 5 will reward you 16 SPINS."
                                             ],
                                             "PT": [
-                                                "Este jogo oferece a possibilidade de comprar recursos especiais diretamente do jogo principal pressionando o botão CRISTAL SHOP.",
-                                                "Os jogadores têm a opção de comprar a função FLASH SPINS com 4, 5 ou 6 símbolos SCATTER. O número de SCATTER determina o número de CARRETEL ESPECIAL durante os FLASH SPINS. A função LUCKY SCATTERS pode recompensar entre 4 a 6 símbolos SCATTER.",
-                                                "A APOSTA DOURADA pode ser ativada por 7 vezes o valor da APOSTA. Isso aumenta sua chance de acionar FLASH SPINS ao aumentar a presença de símbolos SCATTER. Quando a APOSTA DOURADA é ativada, outras opções da CRISTAL SHOP ficam indisponíveis para compra."
+                                                "Acesse diretamente os recursos do jogo na LOJA DE CRISTAIS. Ativação disponível apenas no jogo base.",
+                                                "Se você comprar GIROS GRÁTIS ou SUPER GIROS GRÁTIS, sempre receberá 6 GIROS como recompensa, no entanto, nas GIROS GRÁTIS MISTERIOSOS, você pode ser recompensado com uma quantidade maior.",
+                                                "Quando você compra GIROS GRÁTIS MISTERIOSOS, três SCATTERS vão recompensá-lo com 6 GIROS, quatro vão recompensá-lo com 10 e cinco vão recompensá-lo com 16 GIROS."
                                             ]
                                         },
                                         "direction": "column",
-                                        "customFormat": "",
-                                        "valueType": "maxWinValue",
-                                        "Type": "text",
-                                        "Text": "The Max win is ",
-                                        "value": "20,000x"
+                                        "customFormat": ""
                                     }
                                 ]
                             },
@@ -2038,7 +2030,7 @@
                                 "featureContent": [
                                     {
                                         "type": "divContent",
-                                        "numberOfDivs": 6,
+                                        "numberOfDivs": 3,
                                         "direction": "row",
                                         "divContentBorder": [
                                             {
@@ -2066,142 +2058,61 @@
                                                         "SUPER FREE SPINS 500x APOSTA"
                                                     ]
                                                 },
-                                                "content": "RTP - 93,47%"
+                                                "content": "RTP - 93,33%"
                                             },
                                             {
                                                 "direction": "column",
                                                 "contentInside": {
                                                     "EN": [
-                                                        "FREE SPINS 100x BET"
+                                                        "MYSTERY FREE SPINS 150X BET"
                                                     ],
                                                     "IT": [
-                                                        "FREE SPINS 100x PUNTATA"
+                                                        "MYSTERY FREE SPINS 150X PUNTATA"
                                                     ],
                                                     "RU": [
-                                                        "FREE SPINS 100x СТАВКА "
+                                                        "MYSTERY FREE SPINS 150X СТАВКА "
                                                     ],
                                                     "FR": [
-                                                        "FREE SPINS 100x MISE"
+                                                        "MYSTERY FREE SPINS 150X MISE"
                                                     ],
                                                     "ZH": [
-                                                        "FREE SPINS 100x 倍投注"
+                                                        "MYSTERY FREE SPINS 150X 倍投注"
                                                     ],
                                                     "US": [
-                                                        "FREE SPINS 100x BET"
+                                                        "MYSTERY FREE SPINS 150X BET"
                                                     ],
                                                     "PT": [
-                                                        "FREE SPINS 100x APOSTA"
+                                                        "MYSTERY FREE SPINS 150X APOSTA"
                                                     ]
                                                 },
-                                                "content": "RTP - 93,35%"
+                                                "content": "RTP - 93,30%"
                                             },
                                             {
                                                 "direction": "column",
                                                 "contentInside": {
                                                     "EN": [
-                                                        "GOLDEN BET 9x BET"
+                                                        "FREE SPINS 100X BET"
                                                     ],
                                                     "IT": [
-                                                        "GOLDEN BET 9x PUNTATA"
+                                                        "FREE SPINS 100X PUNTATA"
                                                     ],
                                                     "RU": [
-                                                        "GOLDEN BET 9x СТАВКА "
+                                                        "FREE SPINS 100X СТАВКА "
                                                     ],
                                                     "FR": [
-                                                        "GOLDEN BET 9x MISE"
+                                                        "FREE SPINS 100X MISE"
                                                     ],
                                                     "ZH": [
-                                                        "GOLDEN BET 9x 倍投注"
+                                                        "FREE SPINS 100X 倍投注"
                                                     ],
                                                     "US": [
-                                                        "GOLDEN BET 9x BET"
+                                                        "FREE SPINS 100X BET"
                                                     ],
                                                     "PT": [
-                                                        "GOLDEN BET 9x APOSTA"
+                                                        "FREE SPINS 100X APOSTA"
                                                     ]
                                                 },
-                                                "content": "RTP - 93,62%"
-                                            },
-                                            {
-                                                "direction": "column",
-                                                "contentInside": {
-                                                    "EN": [
-                                                        "RED QUEEN 50x BET"
-                                                    ],
-                                                    "IT": [
-                                                        "RED QUEEN 50x PUNTATA"
-                                                    ],
-                                                    "RU": [
-                                                        "RED QUEEN 50x СТАВКА "
-                                                    ],
-                                                    "FR": [
-                                                        "RED QUEEN 50x MISE"
-                                                    ],
-                                                    "ZH": [
-                                                        "RED QUEEN 50x 倍投注"
-                                                    ],
-                                                    "US": [
-                                                        "RED QUEEN 50x BET"
-                                                    ],
-                                                    "PT": [
-                                                        "RED QUEEN 50x APOSTA"
-                                                    ]
-                                                },
-                                                "content": "RTP - 93,56%"
-                                            },
-                                            {
-                                                "direction": "column",
-                                                "contentInside": {
-                                                    "EN": [
-                                                        "BLUE QUEEN 50x BET"
-                                                    ],
-                                                    "IT": [
-                                                        "BLUE QUEEN 50x PUNTATA"
-                                                    ],
-                                                    "RU": [
-                                                        "BLUE QUEEN 50x СТАВКА "
-                                                    ],
-                                                    "FR": [
-                                                        "BLUE QUEEN 50x MISE"
-                                                    ],
-                                                    "ZH": [
-                                                        "BLUE QUEEN 50x 倍投注"
-                                                    ],
-                                                    "US": [
-                                                        "BLUE QUEEN 50x BET"
-                                                    ],
-                                                    "PT": [
-                                                        "BLUE QUEEN 50x APOSTA"
-                                                    ]
-                                                },
-                                                "content": "RTP - 93,65%"
-                                            },
-                                            {
-                                                "direction": "column",
-                                                "contentInside": {
-                                                    "EN": [
-                                                        "PURPLE QUEEN 50x BET"
-                                                    ],
-                                                    "IT": [
-                                                        "PURPLE QUEEN 50x PUNTATA"
-                                                    ],
-                                                    "RU": [
-                                                        "PURPLE QUEEN 50x СТАВКА "
-                                                    ],
-                                                    "FR": [
-                                                        "PURPLE QUEEN 50x MISE"
-                                                    ],
-                                                    "ZH": [
-                                                        "PURPLE QUEEN 50x 倍投注"
-                                                    ],
-                                                    "US": [
-                                                        "PURPLE QUEEN 50x BET"
-                                                    ],
-                                                    "PT": [
-                                                        "PURPLE QUEEN 50x APOSTA"
-                                                    ]
-                                                },
-                                                "content": "RTP - 93,56%"
+                                                "content": "RTP - 93,34%"
                                             }
                                         ]
                                     }
@@ -2300,11 +2211,7 @@
                                             ]
                                         },
                                         "direction": "column",
-                                        "customFormat": "",
-                                        "valueType": "maxWinValue",
-                                        "Type": "text",
-                                        "Text": "The Max win is ",
-                                        "value": "20,000x"
+                                        "customFormat": ""
                                     }
                                 ]
                             }
