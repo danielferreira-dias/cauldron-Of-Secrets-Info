@@ -515,6 +515,7 @@ function createNewSections(mainSection, subSection, subContainer) {
             contentDisplay.featureContent.forEach((feature) => {
                 const contentDiv = document.createElement("div");
                 contentDiv.style.flexDirection = feature.direction;
+                contentDiv.style.margin = "10px 0px"
 
                 switch (feature.type) {
                     case "img":
@@ -541,7 +542,6 @@ function createNewSections(mainSection, subSection, subContainer) {
                         const rightDivParent = document.createElement("div");
                         rightDivParent.style.display = "flex";
                         rightDivParent.style.flexDirection = "row";
-                        rightDivParent.style.flex = 1;
 
                         // Right Div contains Multipliers
                         const rightDivMultiplierCol = document.createElement("div");
@@ -742,6 +742,7 @@ function createbuyBonusSection(mainSection, subSection, subContainer) {
                 for (let j = 0; j < contentDisplay.featureContent.length; j++) {
                     contentDiv = document.createElement("div");
                     contentDiv.style.flexDirection = contentDisplay.direction;
+                    contentDiv.style.margin = "10px 0px"
 
                     if (contentDisplay.featureContent[j].type === "img") {
                         contentDiv.classList.add("content-div-class-flex-img");
