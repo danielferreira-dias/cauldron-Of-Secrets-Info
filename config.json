@@ -1297,7 +1297,7 @@
                                     {
                                         "type": "img_text",
                                         "imageType": "big",
-                                        "divMaxWith": "symbolWidth",
+                                        "divMaxWidth": "symbolWidth",
                                         "wrap": "wrap",
                                         "url": [
                                             "images/Settings/Symbol/8.png"
@@ -1341,7 +1341,7 @@
                                     {
                                         "type": "img_text",
                                         "imageType": "big",
-                                        "divMaxWith": "symbolWidth",
+                                        "divMaxWidth": "symbolWidth",
                                         "wrap": "wrap",
                                         "url": [
                                             "images/Settings/Symbol/9.png"
@@ -1385,7 +1385,7 @@
                                     {
                                         "type": "img_text",
                                         "imageType": "big",
-                                        "divMaxWith": "symbolWidth",
+                                        "divMaxWidth": "symbolWidth",
                                         "wrap": "wrap",
                                         "url": [
                                             "images/Settings/Symbol/10.png"
@@ -1457,7 +1457,7 @@
                                     {
                                         "type": "img_text",
                                         "imageType": "big",
-                                        "divMaxWith": "screenWidth",
+                                        "divMaxWidth": "screenWidth",
                                         "wrap": "wrap",
                                         "url": [
                                             "images/Settings/Assets/MAIN_GAME_MULTIPLIERS.png"
@@ -1501,7 +1501,7 @@
                                     {
                                         "type": "img_text",
                                         "imageType": "big",
-                                        "divMaxWith": "screenWidth",
+                                        "divMaxWidth": "screenWidth",
                                         "wrap": "wrap",
                                         "url": [
                                             "images/Settings/Assets/FREE_SPINS_MULTIPLIERS.png"
@@ -1545,7 +1545,7 @@
                                     {
                                         "type": "img_text",
                                         "imageType": "big",
-                                        "divMaxWith": "screenWidth",
+                                        "divMaxWidth": "screenWidth",
                                         "wrap": "wrap",
                                         "url": [
                                             "images/Settings/Assets/SUPER_FREE_SPINS_MULTIPLIERS.png"
@@ -1617,7 +1617,7 @@
                                     {
                                         "type": "img_text",
                                         "imageType": "big",
-                                        "divMaxWith": "wizardWidth",
+                                        "divMaxWidth": "wizardWidth",
                                         "wrap": "wrap",
                                         "url": [
                                             "images/Settings/Assets/WIZARD.png"
@@ -1661,7 +1661,7 @@
                                     {
                                         "type": "img_text",
                                         "imageType": "big",
-                                        "divMaxWith": "cauldronWidth",
+                                        "divMaxWidth": "cauldronWidth",
                                         "wrap": "wrap",
                                         "url": [
                                             "images/Settings/Assets/CAULDRON.png"
@@ -1732,7 +1732,7 @@
                                 "featureContent": [
                                     {
                                         "type": "img",
-                                        "divMaxWith": "symbolWidth",
+                                        "divMaxWidth": "symbolWidth",
                                         "imageType": "big",
                                         "wrap": "",
                                         "url": [
@@ -1807,7 +1807,7 @@
                                     {
                                         "type": "img_text",
                                         "imageType": "big",
-                                        "divMaxWith": "symbolWidth",
+                                        "divMaxWidth": "symbolWidth",
                                         "wrap": "wrap",
                                         "url": [
                                             "images/Settings/Assets/X2.png"
@@ -1851,7 +1851,7 @@
                                     {
                                         "type": "img_text",
                                         "imageType": "big",
-                                        "divMaxWith": "symbolWidth",
+                                        "divMaxWidth": "symbolWidth",
                                         "wrap": "wrap",
                                         "url": [
                                             "images/Settings/Assets/X10.png"
@@ -1960,7 +1960,7 @@
                                 "featureContent": [
                                     {
                                         "type": "img",
-                                        "divMaxWith": "symbolWidth",
+                                        "divMaxWidth": "symbolWidth",
                                         "imageType": "big",
                                         "wrap": "",
                                         "url": [
@@ -2026,7 +2026,7 @@
                             {
                                 "typeDisplay": "flex",
                                 "direction": "row",
-                                "divMaxWith": "smallMaxWidth",
+                                "divMaxWidth": "smallMaxWidth",
                                 "featureContent": [
                                     {
                                         "type": "divContent",
@@ -2146,7 +2146,7 @@
                                 "featureContent": [
                                     {
                                         "type": "img",
-                                        "divMaxWith": "symbolWidth",
+                                        "divMaxWidth": "symbolWidth",
                                         "imageType": "big",
                                         "wrap": "",
                                         "url": [
